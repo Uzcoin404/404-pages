@@ -1,5 +1,4 @@
 <?php
-// This block MUST be at the very top of the page!
 @ob_start('ob_gzhandler');
 if(isset($_GET['icon']))
 {
