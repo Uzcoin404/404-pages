@@ -1,8 +1,9 @@
 <p align="center">
-    <a href="https://github.com/Uzcoin404/404-pages" alt="Contributors">
-        <img src="https://img.shields.io/appveyor/build/uzcoin404/404-pages?style=plastic" /></a>
-    <a href="#backers" alt="Backers on Open Collective">
-        <img src="https://img.shields.io/opencollective/backers/shields" /></a>
+    <img "https://img.shields.io/github/languages/top/uzcoin404/404-pages?style=plastic">
+    <img src="https://img.shields.io/github/languages/code-size/uzcoin404/404-pages?style=plastic">
+    <img src="https://img.shields.io/github/directory-file-count/uzcoin404/404-pages?style=plastic">
+    <img src="https://img.shields.io/github/repo-size/uzcoin404/404-pages?style=plastic">
+    <img src="https://img.shields.io/github/downloads/uzcoin404/404-pages/total?style=plastic">
     <a href="#sponsors" alt="Sponsors on Open Collective">
         <img src="https://img.shields.io/opencollective/sponsors/shields" /></a>
     <a href="https://github.com/badges/shields/pulse" alt="Activity">
