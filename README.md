@@ -42,4 +42,4 @@
 </p>
 
 Please star a Repository and Share it
-Thanks
+<p>Thanks</p>
