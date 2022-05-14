@@ -18,6 +18,8 @@
     <img src="https://img.shields.io/badge/Star-Please%20Star%20it-green?style=flat">
 </p>
 
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
+
 <h3 style="font-size: 32px;">Please Follow me on</h3>
 <p align="center">
     <a href="https://t.me/MrUzcoin"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
@@ -26,6 +28,8 @@
     <a href="https://twitter.com/MrUzcoin"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/suyunbek/"><img src="https://img.shields.io/badge/Linkedin-0072b1.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p>
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
 <h3 style="font-size: 32px;">Hire me on</h3>
 <p align="center">
@@ -40,6 +44,8 @@
     <img src="https://img.shields.io/github/forks/uzcoin404/404-pages?style=social">
     <img src="https://img.shields.io/github/watchers/uzcoin404/404-pages?style=social">
 </p>
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
 Please star a Repository and Share it
 <p>Thanks</p>
