@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/github/stars/uzcoin404?style=social">
     <img src="https://img.shields.io/github/forks/uzcoin404/404-pages?style=social">
     <img src="https://img.shields.io/github/watchers/uzcoin404/404-pages?style=social">
-    <p align="center"> <img src="https://komarev.com/ghpvc/?username=uzcoin404&label=Profile%20views&color=ff69b4" alt="Uzcoin404" /></p>
+    <img src="https://komarev.com/ghpvc/?username=uzcoin404&label=Profile%20views&color=ff69b4" alt="Uzcoin404" />
 </p>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
